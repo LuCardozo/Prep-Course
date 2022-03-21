@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "nashe";
+const nuevaString = "ola";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 2;
@@ -264,7 +264,7 @@ function esVocal(letra){
     }
   }
     else {
-      return "Dato incorrecto";
+      return "Dato incorreco";
     }
   
 }
