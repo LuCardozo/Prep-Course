@@ -26,8 +26,12 @@ function incrementarPorUno(array) {
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código:
- var array = array + 1;
-  return array;
+  var sumado = [];
+  for( var i = 0; i < array.length; i++){
+   sumado[i] = array[i] + 1;
+    
+  }
+  return sumado;
 }
 
 
@@ -56,7 +60,7 @@ function dePalabrasAFrase(palabras) {
   // con espacios entre cada palabra
   // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
   // Tu código:
-  return palabras;
+ return palabras.join(" ");
 }
 
 
