@@ -1,0 +1,11 @@
+span{
+    font-size: 18px;
+}
+#thirdDiv{
+    height:950px;
+    width: 500px;
+    background: red;
+    margin: 50px;
+    padding: 50px;
+    border: medium dashed green;
+}
