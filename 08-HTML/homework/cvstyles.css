@@ -1,0 +1,33 @@
+
+.classI{
+    float: left;
+}
+
+#foto{
+    background: yellow;
+   border: 15px double orange;
+   font-size: 30px;
+   height: 900px;
+   width: 250px;
+}
+span{
+    font-size: 20px;
+}
+#contact{
+    margin:20px;
+}
+html, body{
+    font-family: Helvetica;
+}
+h2{
+    background-color: black;
+    color: white;
+}
+#fecha{
+    background-color: black;
+    color: white;
+}
+#edu{
+    background-color: black;
+    color: white;
+}
