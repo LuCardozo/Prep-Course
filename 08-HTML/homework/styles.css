@@ -1,5 +1,6 @@
-span{
+#spanId{
     font-size: 18px;
+    margin: 50px;
 }
 #thirdDiv{
     height:950px;
@@ -8,4 +9,10 @@ span{
     margin: 50px;
     padding: 50px;
     border: medium dashed green;
+}
+img{
+    width: "400px";
+}
+.classDiv{
+    background: grey;
 }
